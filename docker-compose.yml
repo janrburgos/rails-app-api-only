@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  app:
+    build: .
+    environment:
+      RAILS_ENV: production
+    ports:
+      - "80:80"
+  db:
+    image: postgres:15

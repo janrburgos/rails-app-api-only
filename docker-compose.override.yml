@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  rails-app:
+    image: rails-local-app
+    environment:
+      RAILS_ENV: development
+      BUNDLE_WITHOUT: ""
+    volumes:
+      - .:/rails
+      - bundle:/usr/local/bundle
+    ports:
+      - "3000:3000"
+
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: rails_app_development
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
+  bundle:
