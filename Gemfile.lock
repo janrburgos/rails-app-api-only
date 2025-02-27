@@ -95,6 +95,8 @@ GEM
     erubi (1.13.1)
     et-orbi (1.2.11)
       tzinfo
+    fasttext (0.4.0)
+      rice (>= 4.3.3)
     fugit (1.11.1)
       et-orbi (~> 1, >= 1.2.11)
       raabro (~> 1.4)
@@ -213,6 +215,7 @@ GEM
     regexp_parser (2.10.0)
     reline (0.6.0)
       io-console (~> 0.5)
+    rice (4.5.0)
     rubocop (1.72.2)
       json (~> 2.3)
       language_server-protocol (~> 3.17.0.2)
@@ -296,10 +299,12 @@ DEPENDENCIES
   bootsnap
   brakeman
   debug
+  fasttext
   kamal
   pg (~> 1.1)
   puma (>= 5.0)
   rails (~> 8.0.1)
+  rice
   rubocop-rails-omakase
   solid_cable
   solid_cache
