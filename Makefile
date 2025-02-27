@@ -1,7 +1,11 @@
-.PHONY: buildLocalBase
-buildLocalBase:
+.PHONY: build
+build:
 	docker build --rm -t rails-local-app -f Dockerfile-local .
 	docker image prune -f
+
+.PHONY: update
+update:
+	docker-compose run --rm rails-app bundle install
 
 .PHONY: start
 start:
@@ -17,6 +21,6 @@ stop:
 status:
 	docker-compose ps
 
-.PHONY: appShell
-appShell:
+.PHONY: shell
+shell:
 	docker exec -it rails-app bash
