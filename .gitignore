@@ -33,3 +33,9 @@
 
 # Ignore JetBrains IDE files.
 .idea/
+
+# Ignore ML models
+/ml_models/*
+
+# Ignore DS_Store files
+.DS_Store

@@ -1,0 +1,1223 @@
+__label__transit-onboard_at_departure_terminal 1st flt onboarded
+__label__transit-onboard_at_departure_terminal 20220611 in dfw booked on flt aa0522 to clt std 1831
+__label__transit-onboard_at_departure_terminal 20220611 in dfw booked on flt aa2481 to sju std 0840
+__label__transit-onboard_at_departure_terminal 20220612 in clt booked on flt aa1852 to sju std 1105
+__label__transit-onboard_at_departure_terminal 20220612 in dfw booked on flt aa1405 to mia std 1906
+__label__transit-onboard_at_departure_terminal 20220613 in mia booked on flt aa1613 to sju std 1010
+__label__transit-onboard_at_departure_terminal 20220613 in mia booked on flt aa1650 to sju std 1900
+__label__transit-onboard_at_departure_terminal 20220614 in clt booked on flt aa2316 to bwi std 1310
+__label__transit-onboard_at_departure_terminal 20220614 in dfw booked on flt aa2943 to clt std 0500
+__label__transit-onboard_at_departure_terminal 20220922 in dfw booked on flt aa0446 to sfo std 2237
+__label__transit-onboard_at_departure_terminal 20220923 in dfw booked on flt aa2019 to sfo std 0926
+__label__transit-onboard_at_departure_terminal 2nd flt onboarded
+__label__exception-loss/returns a claim has been issued to the sender for your package please contact the sender for more information
+__label__transit-pick_up_confirmed actual pickup time
+__label__exception-loss/returns address information is incomplete the package was returned to the sender
+__label__exception-incorrect_info address query well follow this up with the receiver or contact the sender if necessary
+__label__exception-carrier_delays a delay has occurred due to late processing by ups brokerage we are adjusting delivery plans as quickly as possible
+__label__exception-incorrect_info a delivery change for this package is in progress  delivery to a ups access point location is pending
+__label__exception-loss/returns a delivery change for this package is in progress  the package will be returned to the sender
+__label__exception-incorrect_info a delivery change for this package is in progress  your package will be delivered to an alternate address
+__label__transit-other_delays a delivery change has been completed and your shipment will be forwarded to a ups access point
+__label__exception-traffic_delays a flight cancelation has delayed delivery were updating plans to deliver your package as quickly as possible
+__label__exception-traffic_delays a flight cancelation has delayed delivery were updating plans to deliver your package as quickly as possible  your delivery will be rescheduled
+__label__exception-traffic_delays a flight cancelation has delayed delivery were updating plans to deliver your package as quickly as possible  your package is on the way
+__label__exception-customs/tax_delays a government agency delayed the package during the aviation security screening
+__label__exception-customs/tax_delays a government agency delayed the package during the aviation security screening  your delivery will be rescheduled
+__label__exception-traffic_delays air traffic control resulted in a delay we will update the delivery date as soon as possible
+__label__exception-traffic_delays air traffic control resulted in a delay we will update the delivery date as soon as possible  your package is on the way
+__label__exception-traffic_delays a late flight has caused a delay we will update the delivery date as soon as possible
+__label__exception-traffic_delays a late flight has caused a delay we will update the delivery date as soon as possible  delivery will be delayed by one business day
+__label__exception-traffic_delays a late flight has caused a delay we will update the delivery date as soon as possible  delivery will be rescheduled
+__label__exception-traffic_delays a late flight has caused a delay we will update the delivery date as soon as possible  scheduled for delivery today
+__label__exception-traffic_delays a late flight has caused a delay we will update the delivery date as soon as possible  the delivery information was updated in error weve corrected the mistake
+__label__exception-traffic_delays a late flight has caused a delay we will update the delivery date as soon as possible  your delivery will be rescheduled
+__label__exception-traffic_delays a late flight has caused a delay we will update the delivery date as soon as possible  your package is on the way
+__label__exception-traffic_delays a late flight has caused a delay we will update the delivery date as soon as possible  your shipment is scheduled to arrive today after the delivery commitment time
+__label__exception-traffic_delays a late flight has caused a delay your package is scheduled to arrive today later than the communicated delivery time
+__label__exception-traffic_delays a late flight has caused a delay your package will be delayed by one business day
+__label__exception-carrier_delays a late ups trailer arrival has caused a delay were adjusting plans to deliver your package as quickly as possible
+__label__exception-carrier_delays a late ups trailer arrival has delayed delivery by one business day
+__label__exception-carrier_delays a late ups trailer arrival has delayed delivery were adjusting plans to deliver your package as quickly as possible
+__label__exception-carrier_delays a late ups trailer arrival has delayed delivery were adjusting plans to deliver your package as quickly as possible  delivery will be delayed by one business day
+__label__exception-carrier_delays a late ups trailer arrival has delayed delivery were adjusting plans to deliver your package as quickly as possible  delivery will be rescheduled
+__label__exception-carrier_delays a late ups trailer arrival has delayed delivery were adjusting plans to deliver your package as quickly as possible  your delivery will be rescheduled
+__label__exception-loss/returns all merchandise is missing and the empty carton was discarded ups will notify the sender
+__label__exception-traffic_delays a mechanical failure has caused a delay we will update the delivery date as soon as possible
+__label__exception-traffic_delays a mechanical failure has caused a delay we will update the delivery date as soon as possible  delivery will be delayed by one business day
+__label__exception-traffic_delays a mechanical failure has caused a delay we will update the delivery date as soon as possible  delivery will be rescheduled
+__label__exception-traffic_delays a mechanical failure has caused a delay we will update the delivery date as soon as possible  the delivery information was updated in error weve corrected the mistake
+__label__exception-traffic_delays a mechanical failure has caused a delay we will update the delivery date as soon as possible  the package will be forwarded to a ups facility in the destination city
+__label__exception-traffic_delays a mechanical failure has caused a delay we will update the delivery date as soon as possible  your delivery has been rescheduled for the next business day
+__label__exception-traffic_delays a mechanical failure has caused a delay we will update the delivery date as soon as possible  your delivery will be rescheduled
+__label__exception-traffic_delays a mechanical failure has caused a delay we will update the delivery date as soon as possible  your package is on the way
+__label__exception-traffic_delays a mechanical failure has delayed delivery were adjusting plans to deliver your package as quickly as possible
+__label__exception-traffic_delays a mechanical failure has delayed delivery were adjusting plans to deliver your package as quickly as possible  delivery will be delayed by one business day
+__label__exception-traffic_delays a mechanical failure has delayed delivery were adjusting plans to deliver your package as quickly as possible  delivery will be rescheduled
+__label__exception-traffic_delays a mechanical failure has delayed delivery were adjusting plans to deliver your package as quickly as possible  the package will be forwarded to a ups facility in the destination city
+__label__exception-traffic_delays a mechanical failure has delayed delivery were adjusting plans to deliver your package as quickly as possible  your delivery will be rescheduled
+__label__exception-traffic_delays a mechanical failure has delayed delivery were adjusting plans to deliver your package as quickly as possible  your package is on the way
+__label__exception-traffic_delays a mechanical failure has delayed deliverywere working to resolve the problem and deliver your pkg as soon as possible
+__label__exception-incorrect_info a missing commercial invoice is causing a delay we are currently waiting for information from the sender
+__label__exception-incorrect_info a missing commercial invoice is causing a delay we are working to obtain this information
+__label__exception-incorrect_info a missing commercial invoice is causing a delay we are working to obtain this information  the information requested has been obtained and the hold has been resolved
+__label__exception-incorrect_info a missing commercial invoice is causing a delay we are working to obtain this information  the package will be forwarded to a ups facility in the destination city
+__label__exception-customs/tax_delays a missing commercial invoice is causing a delay we are working to obtain this information  the package will be returned to the sender
+__label__exception-natural_causes a natural disaster has delayed delivery by one business day
+__label__exception-loss/returns an authorized request has been received to dispose of the shipment
+__label__exception-other_delays an emergency situation has delayed delivery
+__label__exception-other_delays an emergency situation has delayed delivery  delivery will be delayed by one business day
+__label__exception-natural_causes an emergency situation or severe weather condition has delayed delivery
+__label__exception-natural_causes an emergency situation or severe weather condition has delayed delivery beyond the delivery commitment time
+__label__exception-natural_causes an emergency situation or severe weather condition has delayed delivery  your delivery has been rescheduled for the next business day
+__label__exception-natural_causes an emergency situation or severe weather condition has delayed delivery  your delivery will be rescheduled
+__label__exception-natural_causes an emergency situation or severe weather condition has delayed delivery  your package is on the way
+__label__exception-other_delays a new tracking number was assigned to this package use the new tracking number for status updates
+__label__exception-pick_up_confirmed an investigation has been opened for your lost package
+__label__exception-other_delays a nonups labor dispute has delayed delivery by one business day
+__label__exception-other_delays a nonups labor dispute has delayed delivery until the next business day
+__label__exception-other_delays a nonups labor dispute has delayed delivery were working to deliver your package as quickly as possible
+__label__exception-other_delays a nonups labor dispute has delayed delivery were working to deliver your package as quickly as possible  your delivery will be rescheduled
+__label__exception-natural_causes appt for del sched 20220204 by 1600 weather delay
+__label__exception-natural_causes appt for del sched 20220207 by 1600 weather delay
+__label__exception-traffic_delays a railroad mechanical failure has delayed delivery were working to deliver your package as soon as possible
+__label__exception-customs/tax_delays a required security check has delayed delivery
+__label__exception-customs/tax_delays a required security check has delayed delivery  the package is at the clearing agency awaiting final release
+__label__exception-carrier_delays a required security check has delayed delivery  your delivery will be rescheduled
+__label__exception-customs/tax_delays a required security check has delayed delivery  your package is on the way
+__label__transit-onboard_at_departure_terminal arrived at carrier destination terminal
+__label__transit-pick_up_confirmed arrived at pickup
+__label__transit-pick_up_confirmed arrived at pickup location
+__label__exception-other_delays as requested by the sender the delivery change for this package was completed  your delivery will be rescheduled
+__label__exception-loss/returns as requested by the sender the package is being returned contact the sender for additional information  we have returned the package to the sender using the package return label
+__label__transit-pick_up_confirmed at fed ex origin facility
+__label__exception-traffic_delays a train derailment has delayed delivery by one business day
+__label__exception-traffic_delays a train derailment has delayed delivery were adjusting plans to deliver your package as quickly as possible
+__label__exception-traffic_delays a transportation accident has delayed delivery
+__label__exception-incorrect_info attempted delivery
+__label__exception-incorrect_info attempting to schedule delivery appointment
+__label__exception-other_delays at the receivers request delivery has been delayed
+__label__exception-carrier_delays a ups processing error has delayed delivery were adjusting plans as quickly as possible
+__label__exception-carrier_delays a ups processing error has delayed delivery were adjusting plans as quickly as possible  your delivery will be rescheduled
+__label__exception-customs/tax_delays awaiting customs clearance instructionsinformation weve contacted the receiver to get them
+__label__exception-customs/tax_delays awaiting customs clearance instructions weve contacted the receiver to get them
+__label__exception-other_delays awaiting delivery date and time slot agreement with receiver weve contacted the receiver
+__label__transit-onboard_at_departure_terminal booked on flight  vessel
+__label__transit-onboard_at_departure_terminal booked on flight  vessel
+__label__exception-loss/returns booking rejected
+__label__exception-cancelled cancelled
+__label__transit-onboard_at_departure_terminal cargo departed origin airport
+__label__transit-onboard_at_departure_terminal cargo departed origin port
+__label__transit-pick_up_confirmed cargo picked up from supplier
+__label__transit-pick_up_confirmed carrier loaded on truck at inter term  denver co
+__label__transit-pick_up_confirmed carrier loaded on truck at inter term  los angeles ca
+__label__transit-pick_up_confirmed carrier loaded on truck at inter term  salt lake cit ut
+__label__exception-carrier_delays carrier service delay
+__label__exception-incorrect_info change of delivery address as requested by customer
+__label__exception-other_delays civil demonstration has delayed your package in transit delivery will be rescheduled check back for updates
+__label__exception-other_delays civil demonstration has delayed your package in transit delivery will be rescheduled check back for updates daily or sign up for ups my choice for delivery options
+__label__exception-other_delays civil demonstration has delayed your package in transit delivery will be rescheduled check back for updates  your delivery has been rescheduled for the next business day
+__label__exception-other_delays civil demonstration has delayed your package in transit delivery will be rescheduled check back for updates  your delivery will be rescheduled
+__label__exception-customs/tax_delays clearance delay
+__label__exception-customs/tax_delays clearance delay import
+__label__exception-customs/tax_delays clearance delay  import
+__label__exception-customs/tax_delays clearance in progress
+__label__exception-incorrect_info company closed on a regular weekday delivery next working day
+__label__exception-incorrect_info company closed on delivery attempt followup actions underway
+__label__exception-traffic_delays conection delay were working hard to deliver on time
+__label__transit-onboard_at_departure_terminal confirmed departure
+__label__transit-onboard_at_departure_terminal confirmed gateway departure
+__label__transit-onboard_at_departure_terminal confirmed international departure
+__label__transit-onboard_at_departure_terminal confirmed on board
+__label__exception-customs/tax_delays connection delay due to authorities recovery actions underway
+__label__exception-customs/tax_delays connection delay due to customs recovery actions underway
+__label__exception-natural_causes connection delay natural causes recovery actions underway
+__label__exception-traffic_delays connection delay recovery actions underway
+__label__transit-documents_handover consigneeagent informed of arrival
+__label__exception-incorrect_info consignee has moved from the address provided
+__label__transit-delivered consolidation arrived at dest port
+__label__transit-onboard_at_departure_terminal consolidation onboard at origin port
+__label__transit-delivered container delivery
+__label__transit-pick_up_confirmed container pickup
+__label__exception-other_delays customer was not available on 1st attempt delivery will be made to a nearby ups access point for customer to pick up
+__label__exception-other_delays customer was not available when ups attempted delivery will deliver to a nearby ups access point for customer pick up
+__label__exception-customs/tax_delays customs clearance
+__label__exception-customs/tax_delays customs clearance in progress
+__label__exception-customs/tax_delays customs documentation handed over to receivers broker well deliver once its been cleared
+__label__exception-customs/tax_delays customs documentation query were doing our best to resolve this and will contact the senderreceiver if necessary
+__label__exception-customs/tax_delays customsgovernment authorities are on holiday on strike or their systems are down
+__label__exception-customs/tax_delays customs or other government holddelay
+__label__transit-delivered customs released
+__label__exception-carrier_delays delay
+__label__exception-other_delays delay driver queuing or waiting at delivery address
+__label__exception-customs/tax_delays delay due to authorities recovery actions underway
+__label__exception-customs/tax_delays delay due to authorities recovery action underway
+__label__exception-natural_causes delay due to bad weather recovery actions underway
+__label__exception-other_delays delay due to congestion en route recovery action underway
+__label__exception-other_delays delay due to industrial action recovery actions underway
+__label__exception-other_delays delay due to nontnt industrial action recovery actions underway
+__label__exception-carrier_delays delay due to routing error recovery actions underway
+__label__exception-carrier_delays delay due to routing error were working hard to deliver on time
+__label__exception-customs/tax_delays delayed during clearance at customs
+__label__exception-traffic_delays delayed during transport
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered
+__label__transit-delivered delivered to consignee
+__label__transit-delivered delivered to consignee
+__label__transit-delivered delivered to consignee ok
+__label__exception-other_delays delivered to ups access point location and awaiting customer pickup
+__label__transit-delivered delivery
+__label__transit-delivered delivery
+__label__transit-delivered delivery according to agreement
+__label__transit-delivered delivery agreed with recipient
+__label__exception-incorrect_info delivery area not accessible followup actions underway
+__label__exception-incorrect_info delivery attempt could not be completed
+__label__exception-incorrect_info delivery attempted but no response at consignee address
+__label__exception-incorrect_info delivery attempted consignee premises closed
+__label__exception-incorrect_info delivery attempted  freight unavailable
+__label__exception-carrier_delays delivery attempted  no receiving personnel
+__label__exception-incorrect_info delivery attempted recipient not home
+__label__transit-delivered delivery cartage completefinalised
+__label__transit-delivered delivery complete actual delivery date
+__label__transit-delivered delivery completed  no freight over 30 days
+__label__transit-delivered delivery completed  ok
+__label__exception-incorrect_info delivery exception
+__label__transit-delivered deliveryfcl
+__label__exception-other_delays delivery has been rescheduled due to holiday closures
+__label__exception-other_delays delivery has been rescheduled due to holiday closures  delivery will be rescheduled
+__label__exception-incorrect_info delivery has been rescheduled due to holiday closures  we require a phone number for the delivery address
+__label__exception-other_delays delivery has been rescheduled due to holiday closures  weve contacted the receiver
+__label__exception-other_delays delivery has been rescheduled due to holiday closures  your delivery will be rescheduled
+__label__exception-other_delays delivery has been rescheduled to the next business day due to holiday closures
+__label__exception-other_delays delivery instruction changed to delivery at another day or time
+__label__exception-carrier_delays delivery interrupted
+__label__exception-incorrect_info delivery may be delayed due to an incomplete address we are working to update the address
+__label__exception-loss/returns delivery not accepted
+__label__exception-incorrect_info delivery refused due to incorrect contact details well contact the sender
+__label__exception-other_delays delivery will be delayed by one business day
+__label__exception-carrier_delays delivery will be delayed by one business day  your delivery has been rescheduled for the next business day
+__label__exception-other_delays delivery will be delayed by one business day  your delivery will be rescheduled
+__label__exception-other_delays delivery will be rescheduled
+__label__transit-onboard_at_departure_terminal departed
+__label__transit-onboard_at_departure_terminal departed
+__label__transit-onboard_at_departure_terminal departed carrier origin terminal
+__label__transit-onboard_at_departure_terminal departed carrier transfer terminal
+__label__transit-onboard_at_departure_terminal departed  confirmed on board
+__label__transit-onboard_at_departure_terminal departed  confirmed on board
+__label__transit-pick_up_confirmed departed estes facility at albuquerque nm 229
+__label__transit-pick_up_confirmed departed estes facility at amarillo tx 183
+__label__transit-pick_up_confirmed departed estes facility at arlington tx 193
+__label__transit-pick_up_confirmed departed estes facility at boise id 246
+__label__transit-pick_up_confirmed departed estes facility at columbus oh 087
+__label__transit-pick_up_confirmed departed estes facility at dallas tx 089
+__label__transit-pick_up_confirmed departed estes facility at fort worth tx 184
+__label__transit-pick_up_confirmed departed estes facility at grand prairie tx 147
+__label__transit-pick_up_confirmed departed estes facility at harrisburg pa 024
+__label__transit-pick_up_confirmed departed estes facility at indianapolis in 093
+__label__transit-pick_up_confirmed departed estes facility at irving tx 154
+__label__transit-pick_up_confirmed departed estes facility at knoxville tn 074
+__label__transit-pick_up_confirmed departed estes facility at la mirada ca 291
+__label__transit-pick_up_confirmed departed estes facility at memphis tn 135
+__label__transit-pick_up_confirmed departed estes facility at nashville tn 037
+__label__transit-pick_up_confirmed departed estes facility at roanoke va 007
+__label__transit-pick_up_confirmed departed estes facility at salt lake city ut 225
+__label__transit-pick_up_confirmed departed estes facility at st louis mo 064
+__label__transit-pick_up_confirmed departed estes facility at tulsa ok 195
+__label__transit-pick_up_confirmed departed estes facility at twin falls id 237
+__label__transit-pick_up_confirmed departed estes facility at west middlesex pa 055
+__label__transit-pick_up_confirmed departed estes facility at williamsport pa 015
+__label__transit-onboard_at_departure_terminal departed intermediate terminal
+__label__transit-onboard_at_departure_terminal departed origin terminal
+__label__transit-onboard_at_departure_terminal departed to airline
+__label__transit-onboard_at_departure_terminal departure
+__label__transit-onboard_at_departure_terminal departure
+__label__transit-pick_up_confirmed departure export warehouse
+__label__transit-onboard_at_departure_terminal departure from first load port
+__label__transit-onboard_at_departure_terminal departure from first load terminal
+__label__transit-onboard_at_departure_terminal departure from origin
+__label__transit-onboard_at_departure_terminal departure from origin terminal
+__label__transit-onboard_at_departure_terminal departure scan
+__label__exception-incorrect_info directions to the address are required to complete delivery we are attempting to update this information
+__label__exception-incorrect_info directions to the address are required to complete delivery we are attempting to update this information  the package will be returned to the sender
+__label__transit-documents_handover docs released to broker
+__label__transit-documents_handover docs relhanded over to 3rd party
+__label__transit-documents_handover docs sent to customs broker
+__label__transit-onboard_at_departure_terminal docs turned over to broker
+__label__transit-documents_handover document handover export
+__label__transit-documents_handover document handover import
+__label__transit-onboard_at_departure_terminal documents received
+__label__transit-documents_handover documents released to broker
+__label__transit-documents_handover documents turned over to clients broker or consignee
+__label__transit-documents_handover document turn over
+__label__transit-documents_handover document turnover non jas clearance
+__label__exception-carrier_delays due to operating conditions your delivery may be delayed
+__label__exception-carrier_delays due to operating conditions your package may be delayed
+__label__exception-carrier_delays due to operating conditions your package may be delayed  delivery will be delayed by one business day
+__label__exception-carrier_delays due to operating conditions your package may be delayed  delivery will be rescheduled
+__label__exception-carrier_delays due to operating conditions your package may be delayed  the delivery information was updated in error weve corrected the mistake
+__label__exception-carrier_delays due to operating conditions your package may be delayed  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-carrier_delays due to operating conditions your package may be delayed  the package will be forwarded to a ups facility in the destination city
+__label__exception-carrier_delays due to operating conditions your package may be delayed  your delivery has been rescheduled for the next business day
+__label__exception-carrier_delays due to operating conditions your package may be delayed  your delivery will be rescheduled
+__label__exception-carrier_delays due to operating conditions your package may be delayed  your package is on the way
+__label__exception-carrier_delays due to special operating conditions delivery of your package may be delayed
+__label__exception-carrier_delays due to special operating conditions delivery of your package may be delayed  ups is working to resolve the issue
+__label__exception-natural_causes due to weather conditions delivery has been rescheduled for the next business day
+__label__exception-natural_causes due to weather your package is delayed
+__label__exception-natural_causes due to weather your package is delayed by one business day
+__label__exception-natural_causes due to weather your package is delayed check back later for delivery updates
+__label__exception-other_delays duplicate or nonexistent consignment record in system
+__label__exception-customs/tax_delays duties or taxes are due on this package
+__label__transit-delivered expected goods delivery
+__label__exception-customs/tax_delays export documentation is incomplete or missing we are working to obtain this information from the sender
+__label__exception-incorrect_info first call incorrect or missing phone number
+__label__exception-other_delays follow up
+__label__exception-customs/tax_delays formal customs clearance required
+__label__exception-carrier_delays freight delayed contact team for details
+__label__transit-pick_up_confirmed freight on hand
+__label__transit-pick_up_confirmed freight on team dock
+__label__transit-pick_up_confirmed freight received
+__label__transit-pick_up_confirmed freight received no docs
+__label__transit-pick_up_confirmed freight received wdocs
+__label__transit-delivered goods delivered
+__label__transit-delivered goods delivery
+__label__exception-other_delays held at dropoff point awaiting customer collection
+__label__exception-incorrect_info held awaiting additional information well follow this up with the receiver or contact the sender if necessary
+__label__exception-incorrect_info held awaiting correct address delivery to po box not possible were doing our best to resolve this and will contact the sender if necessary
+__label__exception-incorrect_info held awaiting correct address follow up actions underway
+__label__exception-incorrect_info held awaiting correct address followup actions underway
+__label__exception-incorrect_info held awaiting correct address were doing our best to resolve this and will contact the sender if necessary
+__label__exception-incorrect_info held awaiting correct address were doing our best to resolve this and will contact the senderreceiver if necessary 
+__label__exception-incorrect_info held awaiting correct address were doing our best to resolve this and will contact the senderreceiver if necessary
+__label__exception-customs/tax_delays held awaiting customs clearance
+__label__exception-customs/tax_delays held awaiting customs clearance we have no influence on this process
+__label__exception-customs/tax_delays held awaiting payment of duties taxes or charges weve contacted the receiver about this
+__label__exception-incorrect_info held awaiting receiver details followup actions underway
+__label__exception-incorrect_info held awaiting receiver details well follow this up with the receiver or contact the sender if necessary
+__label__exception-customs/tax_delays held customs awaiting clearance follow up underway
+__label__exception-customs/tax_delays held in customs awaiting payment of duties or taxes by receiver
+__label__exception-other_delays held on request at tnt location awaiting customer collection
+__label__exception-carrier_delays hold at location request accepted
+__label__exception-other_delays holiday in transit location delivery at first opportunity
+__label__exception-cancelled hwb cancelled
+__label__exception-loss/returns hwb unbooking
+__label__exception-customs/tax_delays import charges are due for this package select pay now where available or pay at delivery
+__label__transit-documents_handover import document handover
+__label__transit-documents_handover import document handover
+__label__exception-incorrect_info incomplete address information may delay delivery we are attempting to update this information
+__label__exception-incorrect_info incomplete address information may delay delivery we are attempting to update this information  we will contact the sender
+__label__exception-incorrect_info incorrect address details delivery not possible
+__label__exception-incorrect_info incorrect address details please contact the sender
+__label__exception-incorrect_info incorrect address details we will contact the sender for new deliver instructions
+__label__exception-customs/tax_delays inspection by customs
+__label__exception-customs/tax_delays interception by customs
+__label__transit-pick_up_confirmed in transit
+__label__transit-pick_up_confirmed in transit
+__label__exception-traffic_delays in transit delay
+__label__exception-other_delays issue 7512
+__label__exception-other_delays left message for consignee awaiting response
+__label__exception-carrier_delays local delay
+__label__exception-loss/returns merchandise is missing ups will notify the sender with additional details
+__label__exception-loss/returns merchandise is missing ups will notify the sender with additional details  all merchandise missing empty carton was discarded ups will notify the sender with details of the damage
+__label__exception-incorrect_info missing information next steps underway
+__label__exception-incorrect_info missing shipment data is causing a delay we are awaiting electronic data upload from the shipper
+__label__exception-incorrect_info missing shipment data is causing a delay we are awaiting electronic data upload from the shipper  the information requested has been obtained and the hold has been resolved
+__label__exception-loss/returns missing shipment data is causing a delay we are awaiting electronic data upload from the shipper  the sender requested that we return this package
+__label__exception-other_delays need appt for this delivery made by ord
+__label__exception-incorrect_info need consignee and broker contact details
+__label__exception-incorrect_info need contact for cnee and broker3 8719100
+__label__exception-incorrect_info need correct address for the cnee
+__label__exception-incorrect_info need cusyomer and broker contact details
+__label__exception-customs/tax_delays need payment
+__label__exception-incorrect_info new delivery address requested by customer
+__label__exception-incorrect_info no call back from the cnee to schedule delivery
+__label__exception-other_delays no show
+__label__exception-natural_causes now at maybrook ny usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes now at middletown ct usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes now on trailer 139191 and onhand at middletown ct usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes now on trailer 291006 and onhand at harrisburg pa usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes now on trailer 291006 and onhand at maybrook ny usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes now on trailer 291006 and onhand at memphis tn usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes now on trailer 291006 and onhand at nashville tn usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes now on trailer 291006 and onhand at staunton va usa the shipment was delayed due to inclement weather
+__label__transit-pick_up_confirmed onhand
+__label__exception-other_delays onhold
+__label__exception-customs/tax_delays on hold awaiting for payment of shipment related fees
+__label__exception-other_delays on request of customer or due to customer holiday a new delivery date and time has been planned
+__label__exception-carrier_delays operational delay
+__label__transit-pick_up_confirmed origin pickup
+__label__transit-pick_up_confirmed origin scan
+__label__exception-incorrect_info our driver cannot complete delivery we are trying to get the security access our driver needs for this delivery
+__label__exception-loss/returns package has been received from ups access point location ups will process as necessary  the package will be returned to the sender
+__label__exception-carrier_delays package has been received from ups access point location ups will process as necessary  your delivery will be rescheduled
+__label__exception-carrier_delays package is delayed in transit delivery will be rescheduled check back or signup for ups my choice to receive updates
+__label__exception-other_delays packaging damaged repacked and forwarded for delivery
+__label__exception-carrier_delays partial delivery
+__label__exception-carrier_delays partial delivery of one or more pieces of a multipiece shipment
+__label__exception-customs/tax_delays payment not ready on delivery well follow this up with the receiver or contact the sender if necessary
+__label__exception-other_delays per the receivers request the package is being held for pickup pickup must be made within 5 business days
+__label__exception-other_delays per the senders request this package will be held for pickup
+__label__transit-pick_up_confirmed picked up
+__label__transit-pick_up_confirmed picked up
+__label__transit-pick_up_confirmed picked up
+__label__transit-pick_up_confirmed picked up
+__label__transit-pick_up_confirmed picked up
+__label__transit-pick_up_confirmed picked up
+__label__transit-pick_up_confirmed picked up at supplier
+__label__transit-pick_up_confirmed picked up by the courier
+__label__transit-pick_up_confirmed picked up from shipper
+__label__transit-pick_up_confirmed picked up from shipper  coppell tx
+__label__transit-pick_up_confirmed picked up from shipper  flower mound tx
+__label__transit-pick_up_confirmed picked up from shipper  richardson tx
+__label__transit-pick_up_confirmed pickup
+__label__transit-pick_up_confirmed pickup
+__label__transit-pick_up_confirmed pickup
+__label__transit-pick_up_confirmed pick up at origin
+__label__transit-pick_up_confirmed pickup cartage completefinalised
+__label__transit-pick_up_confirmed pick up complete actual pick up date
+__label__transit-pick_up_confirmed pickup from airline
+__label__transit-pick_up_confirmed pick up from odm
+__label__transit-pick_up_confirmed pickup location serviced
+__label__transit-pick_up_confirmed pickup scan
+__label__exception-other_delays please contact dhl
+__label__exception-carrier_delays please contact ups for additional information  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-incorrect_info please contact ups for additional information  we require a phone number for the delivery address
+__label__exception-loss/returns please contact ups for additional information  we sent the package to ups lost and found
+__label__exception-other_delays please contact ups for additional information  your delivery will be rescheduled
+__label__transit-delivered pod available
+__label__exception-other_delays previous local labor dispute has caused delays recovery efforts are under way to deliver your pkg as soon as possible  delivery will be delayed by one business day
+__label__exception-carrier_delays processing error potential delay recovery actions underway
+__label__transit-delivered proof of delivery
+__label__transit-delivered proof of delivery
+__label__transit-delivered proof of delivery obtained
+__label__transit-delivered proof of delivery rcvd
+__label__transit-pick_up_confirmed rcvd at fwd imp hub
+__label__exception-other_delays ready for recipient pickup
+__label__transit-documents_handover received by consignee
+__label__transit-pick_up_confirmed received export warehouse  cy
+__label__transit-pick_up_confirmed received into ups possession
+__label__exception-incorrect_info receiver closed delivery not possible
+__label__exception-other_delays receiver not available ups access point service canceled will make 2nd delivery attempt at the receivers address
+__label__exception-incorrect_info receiver not home weve left them a message and were waiting for them to get in contact with us
+__label__exception-other_delays receiver on holiday well deliver once they get back
+__label__exception-loss/returns receiver refused delivery awaiting instructions from sender
+__label__exception-carrier_delays receiver refused delivery because it was incomplete well contact the sender for instructions
+__label__exception-loss/returns receiver refused delivery because it was late well contact the sender for instructions
+__label__exception-loss/returns receiver refused delivery because it wasnt requested well contact the sender
+__label__exception-loss/returns receiver refused delivery because of missing customs paperwork well contact the sender
+__label__exception-loss/returns receiver refused delivery due to missing shipment data well contact the sender for instructions if necessary
+__label__exception-loss/returns receiver refused delivery no authorised signatory available
+__label__exception-loss/returns receiver refused delivery well contact the sender for instructions if necessary
+__label__exception-incorrect_info receiver requested different delivery address
+__label__exception-other_delays receiver requested new delivery date
+__label__exception-other_delays receiver requires 24 hours notification before delivery or has agreed to next business day delivery
+__label__exception-natural_causes recent weather has caused delivery delays recovery efforts are under way to deliver your package as soon as possible
+__label__exception-natural_causes recent weather has caused delivery delays recovery efforts are under way to deliver your package as soon as possible  your delivery will be rescheduled
+__label__exception-natural_causes recent weather has caused delivery delays recovery efforts are under way to deliver your package as soon as possible  your package is on the way
+__label__exception-loss/returns recipient refused delivery
+__label__exception-loss/returns refused by consignee
+__label__exception-loss/returns refused due to incorrect contact details follow up underway
+__label__exception-other_delays regional or national holiday delivery at first opportunity
+__label__exception-other_delays regional or national holiday well deliver at the first opportunity
+__label__exception-other_delays rescheduled pickup
+__label__exception-loss/returns returned to sender
+__label__exception-loss/returns returned to sender as agreed
+__label__exception-loss/returns returned to shipper
+__label__exception-loss/returns returned to the sender
+__label__exception-loss/returns returning package to shipper
+__label__exception-loss/returns return label link expired
+__label__exception-loss/returns return label link expiring soon
+__label__exception-loss/returns return to sender because of damage
+__label__exception-other_delays send arrival notices to customer again
+__label__exception-carrier_delays sender tendered the shipment to ups after the latest pickup time for the requested service a day delay is likely  the package will be forwarded to a ups facility in the destination city
+__label__transit-delivered service completed
+__label__exception-loss/returns service disruption occurred  the package is being returned to the sender at a different service level
+__label__exception-loss/returns service disruption occurred  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns service disruption occurred  the package will be returned to the sender
+__label__exception-loss/returns service disruption occurred  the package will be returned to the sender
+__label__exception-loss/returns service disruption occurred  we have returned the package to the sender using the package return label
+__label__transit-delivered services completed delivered
+__label__transit-delivered services completed turned over to client broker
+__label__transit-delivered services completed turned over to client trucker
+__label__exception-natural_causes severe weather conditions have delayed delivery
+__label__exception-natural_causes severe weather conditions have delayed delivery 
+__label__exception-natural_causes severe weather conditions have delayed delivery  delivery will be delayed by one business day
+__label__exception-natural_causes severe weather conditions have delayed delivery  delivery will be rescheduled
+__label__exception-natural_causes severe weather conditions have delayed delivery  the delivery information was updated in error weve corrected the mistake
+__label__exception-natural_causes severe weather conditions have delayed delivery  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-natural_causes severe weather conditions have delayed delivery until the next business day
+__label__exception-natural_causes severe weather conditions have delayed delivery  your delivery has been rescheduled for the next business day
+__label__exception-natural_causes severe weather conditions have delayed delivery  your delivery will be rescheduled
+__label__exception-natural_causes severe weather conditions have delayed delivery  your package is on the way
+__label__exception-natural_causes severe weather conditions have delayed delivery  your shipment is scheduled to arrive today after the delivery commitment time
+__label__exception-natural_causes severe weather has delayed the package it will be delivered as soon as conditions permit
+__label__exception-carrier_delays shipment arrived at incorrect facility it will be sent to the correct destination for delivery
+__label__exception-customs/tax_delays shipment awaiting physical release  customs controlled area
+__label__exception-other_delays shipment awaiting receiver collection from dropoff point weve contacted the receiver about this
+__label__exception-cancelled shipment cancelled by sender
+__label__transit-pick_up_confirmed shipment collected from collection address
+__label__exception-other_delays shipment damaged held awaiting sender instructions
+__label__exception-carrier_delays shipment delayed
+__label__exception-other_delays shipment delayed in transit recovery actions underway
+__label__exception-carrier_delays shipment delivered damaged
+__label__exception-other_delays shipment delivery to be rescheduled
+__label__exception-other_delays shipment delivery to be rescheduled
+__label__exception-carrier_delays shipment exception
+__label__transit-delivered shipment has been delivered to consignee
+__label__transit-delivered shipment has been delivered to the consignee
+__label__transit-pick_up_confirmed shipment has been pickedup
+__label__exception-other_delays shipment held at a tnt location at senders or receivers request its currently awaiting collection
+__label__exception-customs/tax_delays shipment held available upon receipt of payment
+__label__exception-incorrect_info shipment held data missing followup action underway
+__label__exception-incorrect_info shipment held due to missing data were doing our best to resolve this and will contact the sender if necessary
+__label__exception-customs/tax_delays shipment held for customs paperwork documentation query well contact the sender
+__label__exception-incorrect_info shipment held paperwork enquiry followup action underway
+__label__exception-customs/tax_delays shipmentinspection
+__label__exception-other_delays shipment is on hold
+__label__transit-pick_up_confirmed shipment loaded
+__label__transit-pick_up_confirmed shipment loaded into linehaul
+__label__exception-other_delays shipment not received recovery actions underway
+__label__transit-onboard_at_departure_terminal shipment onboard
+__label__exception-other_delays shipment on hold
+__label__exception-carrier_delays shipment partially delivered recovery actions underway
+__label__exception-carrier_delays shipment partially received recovery actions underway
+__label__transit-pick_up_confirmed shipment picked up
+__label__transit-pick_up_confirmed shipment picked up
+__label__exception-loss/returns shipment presumed lost well contact the sender
+__label__exception-carrier_delays shipment rerouted potential delay recovery actions underway
+__label__exception-carrier_delays shipment rerouted recovery actions underway
+__label__exception-loss/returns shipment returned to origin followup actions underway
+__label__transit-delivered shipment turned over
+__label__transit-delivered signature obtained
+__label__transit-delivered signed delivery notice
+__label__transit-delivered signed for by hundre
+__label__transit-delivered signed for by johnson
+__label__transit-delivered signed for by miles
+__label__transit-delivered signed for by travis
+__label__exception-natural_causes significant weather events across the globe are impacting the ups network although your location may not be impacted by adverse weather the movement of packages in the network may be impacted by weather conditions in other areas
+__label__exception-customs/tax_delays stored in the customs area
+__label__transit-pick_up_confirmed take in charge
+__label__transit-onboard_at_departure_terminal tender to airline
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  the address has been corrected
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  the address was corrected
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  the package will be returned to the sender
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  were unable to contact the receiver
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  weve contacted the receiver
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  weve left a message for the receiver to contact us
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  we were unable to obtain additional address information
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  we will contact the sender
+__label__exception-incorrect_info the address is incomplete this may delay delivery were attempting to update the address  your delivery will be rescheduled
+__label__exception-incorrect_info the address label is illegible this may delay delivery were attempting to update the address
+__label__exception-incorrect_info the address label is illegible this may delay delivery were attempting to update the address  the package will be forwarded to a ups facility in the destination city
+__label__exception-incorrect_info the address label is illegible this may delay delivery were attempting to update the address  we will contact the sender
+__label__exception-incorrect_info the address label is illegible this may delay delivery were attempting to update the address  your delivery will be rescheduled
+__label__exception-incorrect_info the apartment number is either missing or incorrect this may delay delivery were attempting to update the address
+__label__exception-incorrect_info the apartment number is either missing or incorrect this may delay delivery were attempting to update the address  the package will be returned to the sender
+__label__exception-incorrect_info the apartment number is either missing or incorrect this may delay delivery were attempting to update the address  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info the apartment number is either missing or incorrect this may delay delivery were attempting to update the address  we require a phone number for the delivery address
+__label__exception-incorrect_info the apartment number is either missing or incorrect this may delay delivery were attempting to update the address  weve left a message for the receiver to contact us
+__label__exception-incorrect_info the apartment number is either missing or incorrect this may delay delivery were attempting to update the address  we will contact the sender
+__label__exception-incorrect_info the apartment number is either missing or incorrect this may delay delivery were attempting to update the address  your delivery has been rescheduled for the next business day
+__label__exception-incorrect_info the apartment number is either missing or incorrect this may delay delivery were attempting to update the address  your delivery will be rescheduled
+__label__exception-other_delays the billing option selected is not valid for this package
+__label__exception-other_delays the billing option selected is not valid for this package  the information requested has been obtained and the hold has been resolved
+__label__exception-other_delays the billing option selected is not valid for this package  your package is on the way
+__label__exception-incorrect_info the borough or county shown in the address is incorrect and may delay delivery were attempting to update the address  the package will be returned to the sender
+__label__exception-incorrect_info the city name in the address is incorrect this may delay delivery were attempting to update the address
+__label__exception-incorrect_info the city name in the address is incorrect this may delay delivery were attempting to update the address  the address was corrected
+__label__exception-incorrect_info the city name in the address is incorrect this may delay delivery were attempting to update the address  we will contact the sender
+__label__exception-incorrect_info the cod amount is missing from the label were attempting to update this information  your delivery will be rescheduled
+__label__exception-other_delays the commodity value of your package exceeds the limit we allow
+__label__exception-other_delays the commodity value of your package exceeds the limit we allow  the information requested has been obtained and the hold has been resolved
+__label__exception-other_delays the commodity value of your package exceeds the limit we allow  the package will be returned to the sender
+__label__exception-other_delays the commodity value of your package exceeds the limit we allow  the sender requested that we return this package
+__label__exception-other_delays the commodity value of your package exceeds the limit we allow  your package is on the way
+__label__exception-incorrect_info the company or receiver name is incorrect please resolve this using the change my delivery button to resume the transit journey
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  scheduled for delivery today
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  the package will be returned to the sender
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  we require a phone number for the delivery address
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  were unable to contact the receiver
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  were unable to deliver your package on schedule
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  weve attempted to contact the receiver regarding pickup arrangements
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  weve contacted the receiver
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  weve contacted the sender
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  we were unable to obtain additional address information
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  we will contact the sender
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  your delivery has been rescheduled for the next business day
+__label__exception-incorrect_info the company or receiver name is incorrect this will delay delivery were attempting to update this information  your delivery will be rescheduled
+__label__exception-incorrect_info the company or receiver name is incorrect your delivery will be rescheduled once this issue is corrected
+__label__exception-incorrect_info the company or receiver name is incorrect your delivery will be rescheduled once this issue is resolved
+__label__transit-customs/tax_delays the customer requested ups contact them for instruction before submitting for customs clearance
+__label__exception-loss/returns the customer requested ups contact them for instruction before submitting for customs clearance  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-customs/tax_delays the customer requested ups contact them for instruction before submitting for customs clearance  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info the delivery address is incomplete we are working to correct this issue and your delivery will be rescheduled
+__label__exception-loss/returns the delivery address is incomplete we were unable to resolve the issue and the package will be returned to the sender
+__label__exception-loss/returns the delivery address is incomplete your package will be returned to the sender
+__label__exception-loss/returns the delivery address is incorrect we were unable to resolve the issue and the package will be returned to the sender
+__label__exception-incorrect_info the delivery address provided is incorrect we are attempting to update the address your delivery will be rescheduled
+__label__exception-loss/returns the delivery address was incomplete we were unable to resolve the issue and the package will be returned to the sender
+__label__transit-incorrect_info the delivery address was incorrect but the issue has been resolved your delivery has been rescheduled
+__label__exception-incorrect_info the delivery change was completed  we require a phone number for the delivery address
+__label__exception-carrier_delays the delivery information was updated in error weve corrected the mistake
+__label__exception-incorrect_info the delivery location is vacant
+__label__exception-loss/returns the delivery location is vacant  the package will be returned to the sender
+__label__exception-incorrect_info the delivery location is vacant  your delivery will be rescheduled
+__label__exception-loss/returns the delivery was refused by the receiver the package will be sent back to the shipper
+__label__exception-other_delays the driver was not able to receive payment a final attempt will be made the next business day
+__label__exception-other_delays the driver was not able to receive payment a final attempt will be made the next business day  were unable to deliver your package on schedule
+__label__exception-other_delays the driver was unable to collect funds on the final delivery attempt
+__label__exception-customs/tax_delays the driver was unable to collect funds on the final delivery attempt  the delivery information was updated in error weve corrected the mistake
+__label__exception-other_delays the driver was unable to collect funds on the final delivery attempt  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns the driver was unable to collect funds on the final delivery attempt  the package will be returned to the sender
+__label__exception-other_delays the driver was unable to collect funds on the final delivery attempt  well contact the sender or receiver about this delivery
+__label__exception-other_delays the driver was unable to collect funds on the final delivery attempt  were attempting to get further instructions and may return the shipment
+__label__exception-other_delays the driver was unable to collect funds on the final delivery attempt  were unable to deliver your package on schedule
+__label__exception-other_delays the driver was unable to collect funds on the final delivery attempt  we will contact the sender
+__label__exception-other_delays the entire shipment was not delivered
+__label__exception-other_delays the freight shipment is delayed
+__label__exception-customs/tax_delays the importer has not assigned a broker this may delay delivery
+__label__exception-incorrect_info the investigation has been closed we were unable to contact the receiver
+__label__exception-incorrect_info the investigation requires additional merchandise description please visit upscomclaims or contact ups for additional support
+__label__exception-loss/returns the maximum days to hold the package at the ups access point location expired the package will be returned
+__label__exception-other_delays the package contains articles that ups prohibits for international shipping
+__label__exception-other_delays the package contains articles that ups prohibits for international shipping  the package will be returned to the sender
+__label__exception-other_delays the package contains articles that ups prohibits for international shipping  your package is on the way
+__label__exception-carrier_delays the package contains multiple duplicate tracking numbers
+__label__exception-carrier_delays the package contains multiple duplicate tracking numbers  the package will be forwarded to a ups facility in the destination city
+__label__exception-incorrect_info the package contains multiple duplicate tracking numbers  well contact the sender or receiver about this delivery
+__label__exception-loss/returns the package did not arrive at the destination
+__label__exception-other_delays the package has been damaged and the sender will be notified
+__label__exception-carrier_delays the package has been rescheduled for a future delivery date
+__label__exception-customs/tax_delays the package is at the clearing agency awaiting final release
+__label__exception-other_delays the package is being held for a future delivery date well attempt to deliver on the date requested
+__label__exception-carrier_delays the package is being held for a future delivery date well attempt to deliver on the date requested  the package is being held for a future delivery date
+__label__exception-carrier_delays the package is being held for a future delivery date well attempt to deliver on the date requested  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-carrier_delays the package is being held for a future delivery date well attempt to deliver on the date requested  well attempt to redeliver today
+__label__exception-carrier_delays the package is being held for a future delivery date well attempt to deliver on the date requested  were unable to deliver your package on schedule
+__label__exception-carrier_delays the package is being held for a future delivery date well attempt to deliver on the date requested  weve confirmed arrangements
+__label__exception-carrier_delays the package is being held for a future delivery date well attempt to deliver on the date requested  your delivery will be rescheduled
+__label__exception-other_delays the package is being held for pickup as the receiver requested pickup must be made within 5 business days
+__label__exception-loss/returns the package is being returned to the sender because the receiver refused delivery
+__label__exception-carrier_delays the package is delayed due to a eurotunnel traffic disruption we are adjusting delivery plans as quickly as possible
+__label__exception-other_delays the package is either overweight or oversized we require preauthorization for delivery
+__label__exception-customs/tax_delays the package is missing duty information and will be returned to export location  your delivery will be rescheduled
+__label__exception-loss/returns the package is not claim eligible because the liability period has passed
+__label__exception-loss/returns  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-other_delays the package is undeliverable and is in the process of being disposed of according to the local guidelines  the package is at the clearing agency awaiting final release
+__label__exception-loss/returns the package is undeliverable and is in the process of being disposed of according to the local guidelines  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-other_delays the package remains at the ups access point location and is reaching the maximum days allowed to be held
+__label__exception-carrier_delays the package was damaged in transit we will notify the sender with details
+__label__transit-delivered the package was delivered at the receivers location
+__label__exception-other_delays the package was given to ups after the cutoff time and the delivery date may be impacted
+__label__exception-carrier_delays the package was missed at the destination location
+__label__exception-carrier_delays the package was missed at the destination location  your delivery will be rescheduled
+__label__exception-loss/returns the package was not picked up at the ups access point location by the expiration date and is being returned to sender
+__label__exception-loss/returns the package was not picked up by the receiver at the ups access point location and will be returned to sender  we will contact the sender
+__label__exception-carrier_delays the package was not ready for pickup at the time of the final attempt
+__label__exception-carrier_delays the package was not ready for pickup at the time of the final attempt  the delivery information was updated in error weve corrected the mistake
+__label__exception-carrier_delays the package was not ready for pickup at the time of the final attempt  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns the package was not ready for pickup at the time of the final attempt  the return label was discarded
+__label__exception-carrier_delays the package was not ready for pickup at the time of the final attempt  we will contact the sender
+__label__exception-loss/returns the package was refused and will be returned to the sender
+__label__exception-loss/returns the package was refused by the receiver and will be returned to the sender
+__label__exception-carrier_delays the package will be held until all packages associated with this shipment have arrived
+__label__exception-carrier_delays the package will be held until all packages associated with this shipment have arrived  the sender requested that we return this package
+__label__exception-carrier_delays the package will be held until all packages associated with this shipment have arrived  well contact the sender or receiver about this delivery
+__label__exception-other_delays the package will be held until all packages associated with this shipment have arrived  weve contacted the receiver
+__label__exception-carrier_delays the package will be held until all packages associated with this shipment have arrived  your delivery will be rescheduled
+__label__exception-carrier_delays the package will be held until all packages associated with this shipment have arrived  your package is on the way
+__label__exception-loss/returns  the package will be returned to the sender
+__label__exception-loss/returns the package will be returned to the sender
+__label__exception-incorrect_info the postal code for the receiver is incorrect we are attempting to obtain correct postal code to complete delivery
+__label__exception-incorrect_info the postal code for the receiver is incorrect we are attempting to obtain correct postal code to complete delivery  delivery will be rescheduled
+__label__exception-incorrect_info the postal code for the receiver is incorrect we are attempting to obtain correct postal code to complete delivery  the address has been corrected
+__label__exception-incorrect_info the postal code for the receiver is incorrect we are attempting to obtain correct postal code to complete delivery  the package will be forwarded to a ups facility in the destination city
+__label__exception-loss/returns the postal code for the receiver is incorrect we are attempting to obtain correct postal code to complete delivery  the package will be returned to the sender
+__label__exception-incorrect_info the postal code for the receiver is incorrect we are attempting to obtain correct postal code to complete delivery  we will contact the sender
+__label__exception-incorrect_info the postal code for the receiver is incorrect we are attempting to obtain correct postal code to complete delivery  your delivery has been rescheduled for the next business day
+__label__exception-incorrect_info the postal code for the receiver is incorrect we are attempting to obtain correct postal code to complete delivery  your delivery will be rescheduled
+__label__exception-loss/returns the receiver determined this is a duplicate product order and has refused the delivery  weve contacted the sender
+__label__exception-loss/returns the receiver determined this product order is late and has refused the delivery
+__label__exception-loss/returns the receiver determined this product order is too expensive and refused the delivery
+__label__exception-loss/returns the receiver does not want the product and refused the delivery
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  delivery will be rescheduled
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  the address was corrected
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  the delivery information was updated in error weve corrected the mistake
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  the package is being returned to the sender at a different service level
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  the package will be returned to the sender
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  well contact the sender or receiver about this delivery
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  were unable to contact the receiver
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  we sent the package to ups lost and found
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  weve contacted the receiver
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  we will contact the sender
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  your delivery will be rescheduled
+__label__exception-loss/returns the receiver does not want the product and refused the delivery  your package is on the way
+__label__exception-loss/returns the receiver doesnt accept cods and refused the delivery
+__label__exception-loss/returns the receiver doesnt accept cods and refused the delivery  the package will be returned to the sender
+__label__exception-loss/returns the receiver doesnt accept cods and refused the delivery well contact the sender about this delivery attempt
+__label__exception-loss/returns the receiver doesnt accept cods and refused the delivery  we will contact the sender
+__label__exception-loss/returns the receiver doesnt accept cods and refused the delivery  your delivery will be rescheduled
+__label__exception-loss/returns the receiver had no invoice information for this package and has refused the delivery
+__label__exception-loss/returns the receiver had no invoice information for this package and has refused the delivery  the package will be returned to the sender
+__label__exception-loss/returns the receiver had no invoice information for this package and has refused the delivery  well contact the sender or receiver about this delivery
+__label__exception-loss/returns the receiver has canceled the product order and refused delivery
+__label__exception-loss/returns the receiver has canceled the product order and refused delivery  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns the receiver has canceled the product order and refused delivery  well contact the sender or receiver about this delivery
+__label__exception-loss/returns the receiver has canceled the product order and refused delivery  we sent the package to ups lost and found
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  delivery will be rescheduled
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  the delivery information was updated in error weve corrected the mistake
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  the package will be returned to the sender
+__label__exception-loss/returns the receiver has moved were attempting to obtain a new delivery address for this receiver  the sender requested that we return this package
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  weve attempted to contact the receiver regarding pickup arrangements
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  weve contacted the sender
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  we will contact the sender
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  your delivery has been rescheduled for the next business day
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  your delivery will be rescheduled
+__label__exception-incorrect_info the receiver has moved were attempting to obtain a new delivery address for this receiver  your package will be delivered to an alternate address
+__label__exception-loss/returns the receiver has moved were returning the package to the sender
+__label__exception-incorrect_info the receiver has moved we will deliver the package to the receivers new address
+__label__exception-other_delays the receiver has requested a delayed delivery
+__label__exception-loss/returns the receiver has requested a delayed delivery  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-other_delays the receiver has requested a delayed delivery  well contact the sender or receiver about this delivery
+__label__exception-other_delays the receiver has requested a delayed delivery  your delivery has been rescheduled for the next business day
+__label__exception-other_delays the receiver has requested a delayed delivery  your delivery will be rescheduled
+__label__exception-incorrect_info the receiver is no longer in business
+__label__exception-other_delays the receiver is no longer in business  your delivery will be rescheduled
+__label__exception-incorrect_info the receiver is not listed in the building directory we are attempting to update this information  the package will be returned to the sender
+__label__exception-incorrect_info the receiver is not listed in the building directory we are attempting to update this information  your delivery will be rescheduled
+__label__exception-other_delays the receiver is on vacation
+__label__exception-other_delays the receiver is on vacation  your delivery has been rescheduled for the next business day
+__label__exception-other_delays the receiver is on vacation  your delivery will be rescheduled
+__label__exception-loss/returns the receiver refused the delivery
+__label__exception-loss/returns the receiver refused the delivery  the package will be returned to the sender
+__label__exception-loss/returns the receiver refused the delivery ups will contact the sender for further instructions
+__label__exception-loss/returns the receiver refused the package appeared to be damaged ups will notify the sender with the details
+__label__exception-loss/returns the receiver refused the package appeared to be damaged ups will notify the sender with the details  all merchandise is being returned ups will notify the sender with details of the damage
+__label__exception-incorrect_info the receiver requested an alternate delivery address the request is in progress
+__label__transit-incorrect_info the receiver requested a temporary change to the delivery address  the address was corrected
+__label__exception-loss/returns the receiver requestedcreated a preauthorized return label
+__label__exception-other_delays the receiver requested this package to be held for pickup at the ups facility
+__label__exception-other_delays the receiver requested this package to be held for pickup at the ups facility  delivery will be rescheduled
+__label__exception-other_delays the receiver requested this package to be held for pickup at the ups facility  package must be picked up within 5 business days
+__label__exception-carrier_delays the receiver requested this package to be held for pickup at the ups facility  the address was corrected
+__label__exception-carrier_delays the receiver requested this package to be held for pickup at the ups facility  the delivery information was updated in error weve corrected the mistake
+__label__exception-other_delays the receiver requested this package to be held for pickup at the ups facility  the package will be returned to the sender
+__label__exception-other_delays the receiver requested this package to be held for pickup at the ups facility  well contact the sender or receiver about this delivery
+__label__exception-other_delays the receiver requested this package to be held for pickup at the ups facility  weve confirmed arrangements
+__label__exception-loss/returns the receiver states the product was not ordered and has refused the delivery
+__label__exception-loss/returns the receiver states the product was not ordered and has refused the delivery  the package will be returned to the sender
+__label__exception-incorrect_info the receiver was not available at the time of the delivery attempt
+__label__exception-incorrect_info the receiver was not available at the time of the delivery attempt  the package will be returned to the sender
+__label__exception-incorrect_info the receiver was not available at the time of the delivery attempt  this package was abandoned by both the sender and receiver
+__label__exception-incorrect_info the receiver was not available at the time of the delivery attempt  well contact the sender or receiver about this delivery
+__label__exception-other_delays the receiver was not available at the time of the delivery attempt  were unable to deliver your package on schedule
+__label__exception-incorrect_info the receiver was not available at the time of the final delivery attempt
+__label__exception-loss/returns the receiver was not available at the time of the final delivery attempt  the package will be returned to the sender
+__label__exception-incorrect_info the receiver was not available at the time of the final delivery attempt  the return label was discarded
+__label__exception-incorrect_info the receiver was not available for delivery well make a second attempt the next business day
+__label__exception-loss/returns the receiver was not available for delivery well make a second attempt the next business day  the package is being returned to the sender at a different service level
+__label__exception-loss/returns the receiver was not available for delivery well make a second attempt the next business day  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-other_delays the receiver was not available for delivery well make a second attempt the next business day  well contact the sender or receiver about this delivery
+__label__exception-other_delays the receiver was not available for delivery well make a second attempt the next business day  your delivery has been rescheduled for the next business day
+__label__exception-other_delays the receiver will only accept delivery during certain hours were adjusting delivery plans as quickly as possible  your delivery will be rescheduled
+__label__exception-incorrect_info the receiving business was closed and delivery has been rescheduled for the next business day
+__label__exception-incorrect_info the receiving business was closed a second attempt will be made on the next business day
+__label__exception-incorrect_info the receiving business was closed at the time of the final delivery attempt
+__label__exception-loss/returns the receiving business was closed at the time of the final delivery attempt  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns the receiving business was closed at the time of the final delivery attempt  the package will be returned to the sender
+__label__exception-incorrect_info the receiving business was closed at the time of the final delivery attempt  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info the receiving business was closed at the time of the final delivery attempt  weve contacted the sender
+__label__exception-incorrect_info the receiving business was closed at the time of the final delivery attempt  your delivery has been rescheduled for the next business day
+__label__exception-incorrect_info the receiving business was closed at the time of the final delivery attempt  your delivery will be rescheduled
+__label__exception-incorrect_info the receiving business was closed well attempt to deliver the package the next business day
+__label__exception-incorrect_info the receiving business was closed well attempt to deliver the package the next business day  your delivery will be rescheduled
+__label__exception-incorrect_info there is a delivery change in progress to deliver the package to the original receivers address
+__label__exception-other_delays the requested service has changed for assistance please contact dhl
+__label__exception-carrier_delays theres been a delay but were working hard to deliver on time
+__label__exception-carrier_delays theres been a delay but were working hard to deliver on time
+__label__exception-other_delays the sender requested a modified intercept for this package
+__label__exception-other_delays the sender requested a modified intercept for this package  package could not be located for intercept
+__label__exception-other_delays the sender requested a modified intercept for this package  your package is on the way
+__label__exception-other_delays the sender requested a modified intercept for this package  your package will be delivered to an alternate address
+__label__exception-other_delays the sender requested that we hold this package
+__label__exception-other_delays the sender requested this package be held for pickup at a ups facility  your delivery will be rescheduled
+__label__exception-other_delays the service selected is not available to this destination address this has delayed delivery
+__label__exception-incorrect_info the state shown in the address is incorrect this may delay delivery were attempting to update the address  the address was corrected
+__label__exception-incorrect_info the state shown in the address is incorrect this may delay delivery were attempting to update the address  were unable to contact the receiver
+__label__exception-incorrect_info the street name is incorrect this may delay delivery were attempting to update the address
+__label__exception-incorrect_info the street name is incorrect this may delay delivery were attempting to update the address  the address was corrected
+__label__exception-incorrect_info the street name is incorrect this may delay delivery were attempting to update the address  the package will be returned to the sender
+__label__exception-incorrect_info the street name is incorrect this may delay delivery were attempting to update the address  we require a phone number for the delivery address
+__label__exception-incorrect_info the street name is incorrect this may delay delivery were attempting to update the address  were unable to contact the receiver
+__label__exception-incorrect_info the street name is incorrect this may delay delivery were attempting to update the address  your delivery has been rescheduled for the next business day
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  the delivery information was updated in error weve corrected the mistake
+__label__exception-loss/returns the street number is incorrect this may delay delivery were attempting to update the address  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  the package will be returned to the sender
+__label__exception-loss/returns the street number is incorrect this may delay delivery were attempting to update the address  the sender requested that we return this package
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  we require a phone number for the delivery address
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  were unable to contact the receiver
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  were unable to deliver your package on schedule
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  weve left a message for the receiver to contact us
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  we will contact the sender
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  your delivery has been rescheduled for the next business day
+__label__exception-incorrect_info the street number is incorrect this may delay delivery were attempting to update the address  your delivery will be rescheduled
+__label__exception-incorrect_info the street prefix is either missing or incorrect this may delay delivery were attempting to update the address  the address was corrected
+__label__exception-incorrect_info the street suffix is incorrect this may delay delivery were attempting to update the address  the address was corrected
+__label__exception-incorrect_info the street type shown in the address is incorrect this may delay delivery were attempting to update the address  the address was corrected
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  the address was corrected
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  the delivery information was updated in error weve corrected the mistake
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  the package is being returned to the sender at a different service level
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  the package will be returned to the sender
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  were unable to contact the receiver
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  weve contacted the receiver
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  we will contact the sender
+__label__exception-incorrect_info the suite number is either missing or incorrect this may delay delivery were attempting to update the address  your delivery will be rescheduled
+__label__exception-customs/tax_delays they have not done taxes yet so will be deliver tuesday
+__label__exception-other_delays this delivery address is in a remote area where deliveries are not made daily
+__label__exception-other_delays this delivery address is in a remote area where deliveries are not made daily  your delivery has been rescheduled for the next business day
+__label__exception-other_delays this delivery address is in a remote area where deliveries are not made daily  your delivery will be rescheduled
+__label__exception-other_delays this package is being held for a future delivery date
+__label__exception-other_delays this package is being held for a future delivery date  delivery will be delayed by one business day
+__label__exception-other_delays this package is being held for a future delivery date  scheduled for delivery today
+__label__exception-carrier_delays this package is being held for a future delivery date  the delivery information was updated in error weve corrected the mistake
+__label__exception-loss/returns this package is being held for a future delivery date  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns this package is being held for a future delivery date  the package will be returned to the sender
+__label__exception-other_delays this package is being held for a future delivery date  weve contacted the receiver
+__label__exception-carrier_delays this package is being held for a future delivery date  weve left a message for the receiver to contact us
+__label__exception-carrier_delays this package is being held for a future delivery date  weve rescheduled this delivery
+__label__exception-other_delays this package is being held for a future delivery date  we will contact the sender
+__label__exception-other_delays this package is being held for a future delivery date  your delivery has been rescheduled for the next business day
+__label__exception-loss/returns this package was abandoned by both the sender and receiver
+__label__exception-customs/tax_delays this returned package requires an export invoice for duty relief
+__label__exception-carrier_delays time constraint prevented delivery delivery at first opportunity
+__label__exception-other_delays traffic jam prevented delivery recovery actions underway
+__label__exception-natural_causes trailer 139191 is loading at maybrook ny usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes trailer 139191 was closed at maybrook ny usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes trailer 291006 is enroute to harrisburg pa usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes trailer 291006 is enroute to maybrook ny usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes trailer 291006 is enroute to memphis tn usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes trailer 291006 is enroute to nashville tn usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes trailer 291006 is enroute to staunton va usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes trailer 291006 was closed at dallas tx usa the shipment was delayed due to inclement weather
+__label__exception-natural_causes trailer 311630 is out for delivery to wallingford ct the shipment was delayed due to inclement weather
+__label__transit-documents_handover transferred to beyond carrier
+__label__exception-other_delays unable to deliver
+__label__exception-other_delays unable to sched del cntcting shpr for instr
+__label__exception-customs/tax_delays uncontrollable delay at customs
+__label__exception-natural_causes uncontrollable events have delayed delivery we are adjusting delivery plans as quickly as possible please check back on the next business day for updates
+__label__exception-delayed undelivered  reconsigned
+__label__exception-carrier_delays ups access point location closed and package not delivered another attempt will be made to ups access point location
+__label__exception-incorrect_info ups cannot deliver to po boxes well deliver the package to the updated address
+__label__exception-incorrect_info ups cannot deliver to po boxes well return the package to the sender
+__label__exception-carrier_delays ups delayed the package during the aviation security screening
+__label__exception-carrier_delays ups delayed the package during the aviation security screening  your delivery will be rescheduled
+__label__exception-carrier_delays ups delayed the package during the aviation security screening  your package is on the way
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  documents or info requested from the customer were received and are being processed for clearance
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  the delivery information was updated in error weve corrected the mistake
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  the package is at the clearing agency awaiting final release
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  the package will be forwarded to a ups facility in the destination city
+__label__exception-loss/returns ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  the package will be returned to the sender
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  the sender requested that we return this package
+__label__exception-loss/returns ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  this package was abandoned by both the sender and receiver
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  well contact the sender or receiver about this delivery
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  we require a phone number for the delivery address
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  were unable to contact the receiver
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  were unable to deliver your package on schedule
+__label__exception-loss/returns ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  we sent the package to ups lost and found
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  weve contacted the receiver
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  weve contacted the receiver to request additional information
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  weve left a message for the receiver to contact us
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  weve requested that the receiver contact us
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  we will contact the sender
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  your delivery will be rescheduled
+__label__exception-customs/tax_delays ups initiated contact with receiver or importer for clearance information once received ups will submit for clearance  your package is on the way
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  delivery will be rescheduled
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  the information requested has been obtained and the hold has been resolved
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  the package is at the clearing agency awaiting final release
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  the package will be returned to the sender
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  the sender requested that we return this package
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  well contact the sender or receiver about this delivery
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  we require a phone number for the delivery address
+__label__exception-incorrect_info ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  were unable to deliver your package on schedule
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  weve contacted the receiver
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  your delivery will be rescheduled
+__label__exception-customs/tax_delays ups initiated contact with the sender to obtain clearance information once received ups will submit for clearance  your package is on the way
+__label__exception-customs/tax_delays ups is preparing your package for clearance we will notify you if additional information is needed  delivery will be rescheduled
+__label__exception-customs/tax_delays ups is preparing your package for clearance we will notify you if additional information is needed  scheduled for delivery today
+__label__exception-customs/tax_delays ups is preparing your package for clearance we will notify you if additional information is needed  the package is at the clearing agency awaiting final release
+__label__exception-loss/returns ups is preparing your package for clearance we will notify you if additional information is needed  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-customs/tax_delays ups is preparing your package for clearance we will notify you if additional information is needed  well contact the sender or receiver about this delivery
+__label__exception-customs/tax_delays ups is preparing your package for clearance we will notify you if additional information is needed  your package is on the way
+__label__exception-incorrect_info ups is unable to deliver the package because the address is incomplete attempts to obtain address information were unsuccessful package is being returned to sender
+__label__exception-incorrect_info ups was unable to deliver the package the merchandise will be disposed of or surrendered to customs
+__label__exception-cancelled voided information received
+__label__transit-pick_up_confirmed warehousein
+__label__exception-traffic_delays we are experiencing transit delays delivery will be delayed by one business day
+__label__exception-traffic_delays we are experiencing transit delays we will deliver your package as soon as possible
+__label__exception-traffic_delays we are experiencing transit delays we will deliver your package as soon as possible  your package is on the way
+__label__exception-incorrect_info we are trying to get the security access our driver needs for this delivery
+__label__exception-incorrect_info we are trying to get the security access our driver needs for this delivery  the address was corrected
+__label__exception-incorrect_info we are trying to get the security access our driver needs for this delivery  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-incorrect_info we are trying to get the security access our driver needs for this delivery  the package will be returned to the sender
+__label__exception-incorrect_info we are trying to get the security access our driver needs for this delivery  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info we are trying to get the security access our driver needs for this delivery  your delivery has been rescheduled for the next business day
+__label__exception-natural_causes weather conditions have delayed delivery until the next business day
+__label__exception-natural_causes weather delay
+__label__exception-natural_causes weather delay contact local team office for details
+__label__exception-incorrect_info we attempted to call the receiver but the number was missing or incorrect well contact the sender
+__label__exception-incorrect_info we attempted to call the receiver but there was no answer a message was left on the machine
+__label__exception-incorrect_info we attempted to call the receiver but there was no answer well try again later if necessary
+__label__exception-incorrect_info we attempted to call the receiver for a second time but the number was missing or incorrect well contact the sender
+__label__exception-other_delays we attempted to call the receiver for a second time but there was no answer
+__label__exception-other_delays we attempted to call the receiver for a second time but there was no answer well contact the sender if necessary
+__label__exception-incorrect_info we corrected the address as the sender requested
+__label__exception-incorrect_info we do not currently serve the destination address for this package
+__label__transit-pick_up_confirmed we have your package
+__label__exception-other_delays well contact the sender or receiver about this delivery
+__label__exception-customs/tax_delays well contact the sender or receiver because senderimporter validation is required by customs before release
+__label__exception-customs/tax_delays well contact the senderreceiver because commodity description information validation is required by senderimporter before release
+__label__exception-incorrect_info we missed you again a final attempt will be made the next business day
+__label__exception-incorrect_info we missed you again a final attempt will be made the next business day  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info we missed you again well make a final attempt on the next business day
+__label__exception-incorrect_info we need contact information to send th arrival not
+__label__exception-incorrect_info we received an additional request to change the delivery of this package the request is in progress  your package will be delivered to an alternate address
+__label__exception-loss/returns we received a request to change delivery the request will be processed once the package returns to our facility
+__label__exception-incorrect_info we received a request to modify the delivery address
+__label__exception-loss/returns were in the process of returning this package to the sender
+__label__exception-loss/returns were in the process of returning this package to the sender  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns were in the process of returning this package to the sender  the package will be returned to the sender
+__label__exception-loss/returns were in the process of returning this package to the sender  the sender requested that we return this package
+__label__exception-loss/returns were in the process of returning this package to the sender  well contact the sender or receiver about this delivery
+__label__exception-loss/returns were in the process of returning this package to the sender  were unable to deliver your package on schedule
+__label__exception-loss/returns were in the process of returning this package to the sender  your delivery will be rescheduled
+__label__exception-loss/returns were in the process of returning this package to the sender  your package is on the way
+__label__exception-loss/returns were returning this package to the sender
+__label__exception-loss/returns were returning this package to the sender as requested by the receiver
+__label__exception-carrier_delays were sorry this package has experienced a sortation delay the package has been rerouted to the correct destination
+__label__exception-carrier_delays were sorry your package was delayed delivery will be delayed by one business day
+__label__exception-carrier_delays were sorry your package was delayed we are adjusting delivery plans as quickly as possible
+__label__exception-incorrect_info we tried to deliver the package again but need an adult signature a final attempt will be made the next business day  your delivery has been rescheduled for the next business day
+__label__exception-incorrect_info we tried to deliver the package but need an adult signature a second attempt will be made the next business day  your delivery has been rescheduled for the next business day
+__label__exception-customs/tax_delays we tried to deliver the package but were unable to receive payment a second attempt will be made the next business day
+__label__exception-customs/tax_delays we tried to deliver the package but were unable to receive payment a second attempt will be made the next business day  were unable to deliver your package on schedule
+__label__exception-incorrect_info we tried to deliver to the business again but it was closed a final attempt will be made the next business day
+__label__exception-incorrect_info we tried to deliver to the business but it was closed a second attempt will be made the next business day
+__label__exception-customs/tax_delays we tried to deliver your package but we were unable to collect funds well try again on the next business day
+__label__exception-incorrect_info we tried to pickup the package but it was not ready for pickup a second attempt will be made the next business day
+__label__exception-other_delays weve attempted to contact the receiver regarding pickup arrangements
+__label__exception-loss/returns weve begun an investigation to locate the package
+__label__exception-customs/tax_delays weve contacted the receiver because commodity description information validation is required by senderimporter before release
+__label__exception-customs/tax_delays weve contacted the receiver because senderimporter validation is required by customs before release
+__label__exception-carrier_delays weve incorrectly sorted this package which may cause a delay
+__label__exception-carrier_delays weve incorrectly sorted this package which may cause a delay  delivery will be delayed by one business day
+__label__exception-carrier_delays weve incorrectly sorted this package which may cause a delay  your delivery has been rescheduled for the next business day
+__label__exception-carrier_delays weve incorrectly sorted this package which may cause a delay  your delivery will be rescheduled
+__label__exception-other_delays weve left a message for the receiver to contact us
+__label__exception-carrier_delays weve misrouted the package this may cause a delay
+__label__exception-carrier_delays weve misrouted the package this may cause a delay  delivery will be rescheduled
+__label__exception-carrier_delays weve missed the scheduled transfer time this may cause a delay
+__label__exception-carrier_delays weve missed the scheduled transfer time this may cause a delay  delivery will be delayed by one business day
+__label__exception-carrier_delays weve missed the scheduled transfer time this may cause a delay  delivery will be rescheduled
+__label__exception-carrier_delays weve missed the scheduled transfer time this may cause a delay  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-carrier_delays weve missed the scheduled transfer time this may cause a delay  well contact the sender or receiver about this delivery
+__label__exception-carrier_delays weve missed the scheduled transfer time this may cause a delay  your delivery has been rescheduled for the next business day
+__label__exception-carrier_delays weve missed the scheduled transfer time this may cause a delay  your delivery will be rescheduled
+__label__exception-carrier_delays weve missed the scheduled transfer time this may cause a delay  your package is on the way
+__label__exception-carrier_delays weve modified the requested change of delivery for your package  package could not be located for intercept
+__label__exception-incorrect_info weve modified the requested change of delivery for your package  your package will be delivered to an alternate address
+__label__exception-other_delays weve received a request from the receiver to hold the package for pickup at a ups location
+__label__exception-loss/returns weve received a request from the sender to return the package
+__label__exception-incorrect_info weve received a request from the sender to update the delivery address
+__label__exception-loss/returns weve sent the package to ups lost and found
+__label__exception-loss/returns weve sent the package to ups lost and found  the package will be returned to the sender
+__label__exception-loss/returns we were not able to deliver the package after 3 attempts and will be returning the package to the sender
+__label__exception-loss/returns we were unable to deliver the package on our final attempt we are returning this package to the sender
+__label__exception-carrier_delays we were unable to dispatch the trailer on time this may cause a delay
+__label__exception-carrier_delays we were unable to dispatch the trailer on time this may cause a delay  your delivery has been rescheduled for the next business day
+__label__exception-carrier_delays we were unable to dispatch the trailer on time this may cause a delay  your delivery will be rescheduled
+__label__exception-carrier_delays we were unable to load the package on the plane as scheduled
+__label__exception-carrier_delays we were unable to load the package on the plane as scheduled  delivery will be delayed by one business day
+__label__exception-carrier_delays we were unable to load the package on the plane as scheduled  delivery will be rescheduled
+__label__exception-carrier_delays we were unable to load the package on the plane as scheduled we will deliver your package as quickly as possible
+__label__exception-carrier_delays we were unable to load the package on the plane as scheduled  your package is on the way
+__label__exception-loss/returns we were unable to obtain a correct address for the receiver package will be returned to the sender
+__label__transit-incorrect_info your delivery change to a ups access point is in progress check back later for updates
+__label__exception-other_delays your delivery has been rescheduled due to the holiday
+__label__exception-other_delays your delivery has been rescheduled your package will be held until the delivery date requested
+__label__exception-carrier_delays your delivery will be rescheduled
+__label__exception-traffic_delays your delivery will be rescheduled due to a missed aircraft transfer we will update the delivery date as soon as possible
+__label__exception-carrier_delays your package arrived late to the destination city you should expect at least one business day delay
+__label__exception-carrier_delays your package arrived late to the destination city you should expect at least one business day delay  your shipment is scheduled to arrive today after the delivery commitment time
+__label__exception-incorrect_info your package cannot be delivered to a po box were attempting to obtain an alternate delivery address
+__label__exception-incorrect_info your package cannot be delivered to a po box were attempting to obtain an alternate delivery address  the information requested has been obtained and the hold has been resolved
+__label__exception-incorrect_info your package cannot be delivered to a po box were attempting to obtain an alternate delivery address  we sent the package to ups lost and found
+__label__exception-other_delays your package contains hazardous materials we will not transport this package by air
+__label__exception-other_delays your package exceeds the maximum weight we can accept
+__label__exception-customs/tax_delays your package has been delayed due to an export gateway hold
+__label__exception-loss/returns your package has been delayed due to an export gateway hold  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-customs/tax_delays your package has been delayed due to an export gateway hold  your delivery will be rescheduled
+__label__exception-customs/tax_delays your package has been delayed due to an export gateway hold  your package is on the way
+__label__exception-customs/tax_delays your package has been delayed due to an import gateway hold  the package will be returned to the sender
+__label__exception-customs/tax_delays your package has been delayed due to an import gateway hold  well contact the sender or receiver about this delivery
+__label__exception-other_delays your package is being delayed due to the processing involved with handling lithium batteries
+__label__exception-carrier_delays your package is in transit were updating plans to schedule your delivery  delivery will be delayed by one business day
+__label__exception-other_delays your package is in transit were updating plans to schedule your delivery  delivery will be rescheduled
+__label__exception-customs/tax_delays your package is pending release from a government agency once they release it your package will be on its way
+__label__exception-customs/tax_delays your package is pending release from a government agency once they release it your package will be on its way  the package is at the clearing agency awaiting final release
+__label__exception-customs/tax_delays your package is pending release from a government agency once they release it your package will be on its way  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-traffic_delays your package is pending release from a government agency once they release it your package will be on its way  the package will be returned to the sender
+__label__exception-customs/tax_delays your package is pending release from a government agency once they release it your package will be on its way  well contact the sender or receiver about this delivery
+__label__exception-incorrect_info your package is pending release from a government agency once they release it your package will be on its way  we require a phone number for the delivery address
+__label__exception-customs/tax_delays your package is pending release from a government agency once they release it your package will be on its way  weve contacted the receiver
+__label__exception-customs/tax_delays your package is pending release from a government agency once they release it your package will be on its way  weve contacted the receiver to request additional information
+__label__exception-other_delays your package is pending release from a government agency once they release it your package will be on its way  weve requested that the receiver contact us
+__label__exception-customs/tax_delays your package is pending release from a government agency once they release it your package will be on its way  your delivery has been rescheduled for the next business day
+__label__exception-customs/tax_delays your package is pending release from a government agency once they release it your package will be on its way  your delivery will be rescheduled
+__label__exception-customs/tax_delays your package is pending release from a government agency once they release it your package will be on its way  your package is on the way
+__label__exception-customs/tax_delays your package is pending release from a government agency release of the package to ups may take up to 10 days
+__label__exception-customs/tax_delays your package is pending release from a government agency release of the package to ups may take up to 10 days  delivery will be rescheduled
+__label__exception-customs/tax_delays your package is pending release from a government agency release of the package to ups may take up to 10 days  the package is at the clearing agency awaiting final release
+__label__exception-customs/tax_delays your package is pending release from a government agency release of the package to ups may take up to 10 days  weve contacted the receiver
+__label__exception-customs/tax_delays your package is pending release from a government agency release of the package to ups may take up to 10 days  weve contacted the receiver to request additional information
+__label__exception-customs/tax_delays your package is pending release from a government agency release of the package to ups may take up to 10 days  your package is on the way
+__label__exception-customs/tax_delays  your package is pending release from a nonups broker contact the nonups broker for additional information
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information  as requested the package was transferred to a free trade zone or a nonups broker
+__label__transit-incorrect_info your package is pending release from a nonups broker contact the nonups broker for additional information  the delivery information was updated in error weve corrected the mistake
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information  the package is at the clearing agency awaiting final release
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information  the package is undeliverable and is in the process of being disposed of according to the local guidelines
+__label__exception-loss/returns your package is pending release from a nonups broker contact the nonups broker for additional information  the package will be returned to the sender
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information  the sender requested that we return this package
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information  well contact the sender or receiver about this delivery
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information  weve contacted the receiver
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information  weve requested that the receiver contact us
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information  your delivery will be rescheduled
+__label__exception-customs/tax_delays your package is pending release from a nonups broker contact the nonups broker for additional information  your package is on the way
+__label__exception-customs/tax_delays your package may be delayed due to a required xray inspection
+__label__exception-customs/tax_delays your package may be delayed due to a required xray inspection  your delivery will be rescheduled
+__label__exception-customs/tax_delays your package may be delayed due to a required xray inspection  your package is on the way
+__label__exception-carrier_delays your package may be delayed we are adjusting delivery plans as quickly as possible
+__label__exception-carrier_delays your package may be delayed we are adjusting delivery plans as quickly as possible  the sender requested that we return this package
+__label__exception-other_delays your package may be delayed we are adjusting delivery plans as quickly as possible  your delivery will be rescheduled
+__label__exception-customs/tax_delays your package was cleared after the scheduled transport departure we will reschedule for the next available departure  we will contact the sender
+__label__exception-customs/tax_delays your package was cleared after the scheduled transport departure we will reschedule for the next available departure  your delivery has been rescheduled for the next business day
+__label__exception-carrier_delays your package was damaged in transit we will notify the sender with details
+__label__exception-loss/returns your package will be returned to the sender due to a missing shipping label
+__label__exception-natural_causes your shipment may arrive today after the delivery commitment time due to severe weather
+__label__exception-incorrect_info your shipments commercial invoice is incomplete or missing if you are the sender please submit a valid invoice or provide the needed information to resume the transit journey
+__label__exception-incorrect_info your shipments international documents are needing commodity classification if you are the sender please submit valid documents to resume the transit journey
+__label__transit-delivered proof of delivery obtained
+__label__transit- out for delivery
+__label__transit- customs cleared  third party
+__label__transit- arrival at destination
+__label__transit-onboard_at_departure_terminal departure
+__label__transit- adjusted delivery date
+__label__transit- booking with an airline carrier
+__label__transit-pick_up_confirmed pick up from odm
+__label__transit- documents received
+__label__transit- odm booking
+__label__transit- arrival at discharge port terminal
+__label__transit-onboard_at_departure_terminal departure from first load terminal
+__label__transit- packing completed
+__label__transit- pick completed
+__label__transit- finalized
+__label__transit- sent to pick
+__label__transit- entered
+__label__transit- held at team terminal for pick up or special arrangements
+__label__transit- current location dallas tx
+__label__transit- current location west memphis ar
+__label__transit- current location gordonsville tn
+__label__transit- current location roanoke va
+__label__transit- current location burleson tx
+__label__transit- current location arkadelphia ar
+__label__transit- current location greenville va
+__label__transit- rescheduled delivery 20230502 by 1700
+__label__transit- current location richardson tx
+__label__transit- current location nashville tn
+__label__transit- current location lafayette va
+__label__transit- arrived at intermediate terminal
+__label__transit- arrived at destination  freeport ny
+__label__transit- package transferred to post office
+__label__transit- weve updated the delivery address as requested by the receiver
+__label__transit- arrival notice sent to broker
+__label__transit- prealert sent to overseas broker
+__label__transit- booking received
+__label__transit- cargo collected from terminal
+__label__transit- cargo arrived final destination port
+__label__transit- commercial documents received
+__label__transit- partial shipment loaded
+__label__info- edi booking
+__label__transit- shipment arriving on time
+__label__info- billing status  inv
+__label__transit- br cct consol
+__label__transit- br cct shipment
+__label__info- invoice status ihl billing
+__label__transit- import clearnace
+__label__transit- import clerance
+__label__transit- vgm sent
+__label__transit- cartage advice not send to carrier
+__label__transit- import clearance
+__label__transit- released
+__label__transit- current location lindale tx
+__label__transit- awaiting customs clearance
+__label__transit- pickup request acknowledged
+__label__transit- current location tusculum tn
+__label__transit- current location lithia va
+__label__transit- current location mt crawford va
+__label__transit- current location clear brook va
+__label__info- appt for del sched 20230808 by 1500
+__label__transit- current location greenvilletx 63 miles out
+__label__transit- current location fairview tn 659 miles out
+__label__transit- last update at 1614 location meadowview va 996 miles out
+__label__transit- current location wytheville va 1045 miles out
+__label__transit- current location chambersburg pa 17201
+__label__transit- current location harrisburg pa 17112
+__label__transit- driver location christianburg va
+__label__transit- current location hamburg pa
+__label__transit- current location walnut bottom pa
+__label__transit- current location little rock ar
+__label__transit- transferred to carrier acc
+__label__transit- current location carteret nj
+__label__transit- current location hagerstown md
+__label__transit- current location sulphur springs tx
+__label__info- del apt set for 77 at 1130 am con ib196007
+__label__transit- current location palestine ar
+__label__transit- current location edinburg va
+__label__transit- current location dallas tx 75238
+__label__transit- current location 2276 terra brook street fort worth tx 7610
+__label__transit- current location 3544 terra court fort worth tx 76106
+__label__transit- current location shepherdsville ky
+__label__transit- current location moriarty nm
+__label__transit- current location childress tx
+__label__transit- transferred to carrier dsi02
+__label__transit- current location paraje nm
+__label__transit- arrived at carrier destination terminal  lexington ky
+__label__transit- current location cheyenne county co
+__label__transit- transferred to carrier tysl
+__label__transit- driver current location memphis tn
+__label__transit- driver current location cookeville tn
+__label__transit- current location toms brook va
+__label__transit- current location lansdale pa
+__label__transit- current location hooks tx
+__label__transit- current location jackson tn  jl
+__label__transit- current location mcdonough ga
+__label__transit- current location griffin ga
+__label__transit- current location olin nc
+__label__transit- delivery by mail delivery confirmation available on request
+__label__transit- ups is preparing your package for clearance we will notify you if additional information is needed  the package will be forwarded to a ups facility in the destination city
+__label__transit- weve modified the requested change of delivery for your package  delivery to a ups access point location is pending
+__label__transit- the customer requested ups contact them for instruction before submitting for customs clearance  the package is at the clearing agency awaiting final release
+__label__transit- the customer requested ups contact them for instruction before submitting for customs clearance  your package is on the way
+__label__transit- the delivery change was completed  well contact the sender or receiver about this delivery
+__label__transit- package transferred to post office
+__label__transit- now on trailer 928081 spotted at consignee
+__label__transit- trailer 928081 is out for delivery to beaverton or
+__label__transit- now on trailer 928081 loaded for delivery to beaverton or
+__label__transit- now at portland or usa consignee has inadequate or obstructed recvg facility
+__label__transit- trailer 35349 is out for delivery to beaverton or
+__label__transit- now on trailer 35349 loaded for delivery to beaverton or
+__label__transit- trailer 843194 is out for delivery to miami fl
+__label__transit- now on trailer 843194 loaded for delivery to miami fl
+__label__transit- now on trailer 139046 and onhand at miami fl usa
+__label__transit- trailer 139046 is enroute to miami fl usa
+__label__transit- now at portland or usa
+__label__transit- now on trailer 288432 and onhand at portland or usa
+__label__transit- trailer 288432 was closed at portland or usa
+__label__transit- trailer 139046 was closed at jackson ms usa
+__label__transit- trailer 288432 is loading at portland or usa
+__label__transit- trailer 139046 is loading at jackson ms usa
+__label__transit- now on trailer 135375 and onhand at portland or usa
+__label__transit- trailer 135375 is enroute to portland or usa
+__label__transit- now on trailer 135375 and onhand at medford or usa
+__label__transit- trailer 131096 is enroute to miami fl usa
+__label__transit- trailer 135375 is enroute to medford or usa
+__label__transit- trailer 131096 is loading at jackson ms usa
+__label__transit- now on trailer 135392 and onhand at jackson ms usa
+__label__transit- trailer 135392 is enroute to jackson ms usa
+__label__transit- trailer 135392 was closed at dallas tx usa
+__label__transit- trailer 135375 is enroute to tracy ca usa
+__label__transit- trailer 135375 was closed at dallas tx usa
+__label__transit- trailer 560955 is out for delivery to bedford oh
+__label__transit- now on trailer 132784 and onhand at cleveland oh usa
+__label__transit- now on trailer 140045 and onhand at burlington wa usa
+__label__transit- trailer 140045 is enroute to burlington wa usa
+__label__transit- trailer 140045 was closed at portland or usa
+__label__transit- trailer 140045 is loading at portland or usa
+__label__transit- now on trailer 144615 and onhand at portland or usa
+__label__transit- trailer 144615 is enroute to portland or usa
+__label__transit- now on trailer 144615 and onhand at dallas tx usa
+__label__transit- trailer 144615 is enroute to dallas tx usa
+__label__transit- trailer 144615 was closed at dallas tx usa
+__label__transit- trailer 144615 is loading at dallas tx usa
+__label__transit- your package is in transit were updating plans to schedule your delivery  your shipment is scheduled to arrive today after the delivery commitment time
+__label__transit- at the receivers request the ups my choice delivery change option was modified  the receiver will pick up the package at a ups facility
+__label__info- a ups my choice delivery change was requested for this package  the receiver will pick up the package at a ups facility
+__label__transit- all packages in the shipment have arrived and are on the way
+__label__transit- your package has been transferred to the post office and will be delivered in approximately 12 days
+__label__transit- good news weve received export clearance information for your package this hold has been resolved
+__label__transit- your package is on the way check back later for delivery updates
+__label__transit- your package is with a nonups broker contact the nonups broker for additional information
+__label__transit- your package has been released by the government agency and is on the way
+__label__info- the receiver requested this package to be held for pickup at the ups facility  the receiver has picked up their package
+__label__transit- the delivery date has been rescheduled as the sender requested
+__label__transit- we rescheduled the delivery as the sender requested
+__label__transit- in warehouse
+__label__transit-  scheduled for delivery today
+__label__transit-  the information requested has been obtained and the hold has been resolved
+__label__transit-  well contact the sender or receiver about this delivery
+__label__transit-  weve attempted to contact the receiver regarding pickup arrangements
+__label__transit-  your delivery will be rescheduled
+__label__transit-  the package will be forwarded to a ups facility in the destination city
+__label__transit-  the package is at the clearing agency awaiting final release
+__label__transit-  your package is on the way
+__label__transit- customer has picked up package at ups access point
+__label__transit- we missed you we are taking your package to a local ups access point next business day for customer pickup
+__label__info- undeclared hazardous material identified in package contents
+__label__transit- your package is pending release from a nonups broker contact the nonups broker for additional information  receivers customs broker has been assigned the shipment is now released to move in transit
+__label__transit- the receiving business was closed at the time of the final delivery attempt  the receiver has picked up their package
+__label__info- the receiver requested this package to be held for pickup at the ups facility  the receiver will pick up the package at a ups facility
+__label__transit- on the way
+__label__transit- cleared import customs
+__label__info- label created
+__label__info- the receiver has requested that we make an appointment for delivery
+__label__info- your delivery has been rescheduled for the next business day
+__label__info- as requested by the sender the package is being returned contact the sender for additional information  the package will be returned to the sender
+__label__info- the receiver has requested that we make an appointment for delivery  well contact the sender or receiver about this delivery
+__label__transit- available for final distribution
+__label__transit- confirmed arrival at final carrier bl point
+__label__info- eta at port of discharge
+__label__info- file opened
