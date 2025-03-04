@@ -41,7 +41,7 @@ curl -X POST "http://localhost:3000/classify" \
 {
   "status_name": "Shipment arrived at facility",
   "status_type": "in_transit",
-  "substatus_type": "arrived",
+  "substatus_type": "",
   "confidence_score": 0.85
 }
 ```
