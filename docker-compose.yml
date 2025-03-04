@@ -3,9 +3,13 @@ version: "3.8"
 services:
   app:
     build: .
+    env_file:
+      - .env
     environment:
       RAILS_ENV: production
     ports:
       - "80:80"
   db:
     image: postgres:15
+    env_file:
+      - .env

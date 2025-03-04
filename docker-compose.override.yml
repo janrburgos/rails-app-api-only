@@ -3,6 +3,8 @@ version: "3.8"
 services:
   rails-app:
     image: rails-local-app
+    env_file:
+      - .env
     environment:
       RAILS_ENV: development
       BUNDLE_WITHOUT: ""
@@ -14,6 +16,8 @@ services:
 
   db:
     image: postgres:15
+    env_file:
+      - .env
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: password
